@@ -1,0 +1,3 @@
+Hola profe, este es el archivo comprimido donde se encuentra el trabajo final, cuando clones el repositorio debes descomprimirlo para probar que el terraform funciona, la app es sencilla, hay dos botones y en uno te muestra la pagina web con un mensaje y el otro botón te mostrará el mapa, le creé una VPC para darle una IP elástica pero creo que cuando hagas el terraform apply de pronto no te muestre las páginas porque la IP va a cambiar, creo que otra manera de solucionarlo era poner en el main.tf el id de asociación de la vpc pero no encontré bien cómo.
+
+Muchas gracias por todo profe, felices vacaciones.
